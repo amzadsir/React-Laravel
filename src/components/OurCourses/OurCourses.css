@@ -1,0 +1,34 @@
+.Course-Image{
+  padding:3px;
+  border: 10px solid #fdfdfd;
+}
+.Course-Image {
+  width: 85%; 
+  transition: transform 0.3s ease-in-out; 
+  cursor: pointer; 
+}
+
+.Course-Image:hover {
+  transform: scale(1.1); 
+}
+
+.text-center-header {
+  color: #0073E6; 
+}
+
+.Text-Top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  height: 100%; 
+}
+
+.card-title {
+  margin-bottom: 0.5rem; 
+}
+
+.Col-Align {
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+}

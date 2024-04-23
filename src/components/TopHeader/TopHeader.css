@@ -1,0 +1,30 @@
+.Top-Header{
+  background-image: url("../../assets/images/bg.jpeg");
+  min-height: 950px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+} 
+.Top-Overlay{
+  min-height: 950px;
+  width: 100%;
+  position:absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+
+}
+.Top-Content{
+  margin-top: 370px; 
+}
+.Top-Title{
+  color: aliceblue;
+    font-size: 80px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+.Top-Sub-Title{
+  font-size: 40px;
+  font-weight: 600;
+    color: aliceblue;
+    font-family: "Raleway", sans-serif;
+}
