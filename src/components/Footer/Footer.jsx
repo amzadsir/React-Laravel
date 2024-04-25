@@ -6,7 +6,7 @@ import { IoLogoYoutube } from "react-icons/io5";
 export default class Footer extends Component {
   render() {
     return (
-      <section id='footer'>
+      <Fragment>
         <Container>
           <br />
           <br />
@@ -42,7 +42,7 @@ export default class Footer extends Component {
             <Col lg={12} md={12} sm={12} className="Service-Card-Top"></Col>
           </Row>
         </Container>
-      </section>
+      </Fragment>
     );
   }
 }

@@ -8,7 +8,7 @@ import './OurService.css'
 class Service extends Component {
     render() {
         return (
-            <section id='service'>
+            <Fragment>
                 <Container className='our_service'><br/><br/><br/>
                     <h1 className='servicetitle1 text-center '>MY SERVICES</h1><br/><br/>
                     <Row>
@@ -47,7 +47,7 @@ class Service extends Component {
                         </Col>
                     </Row>
                 </Container>
-            </section>
+            </Fragment>
         );
     }
 }

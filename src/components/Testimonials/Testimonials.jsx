@@ -37,7 +37,7 @@ function Testimonials() {
   };
 
   return (
-    <section id='about'>
+    <section>
     <Container>
       <div className="my-4">
         <h2 className='servicetitle1 text-center'>CLIENTS SAY</h2>

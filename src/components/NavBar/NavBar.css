@@ -57,5 +57,9 @@ html {
 }
 
 .navbgcolor {
-  background-color: #9b5903;
+  background-color: #dbccb7;
+}
+.text-red{
+  color: rgb(240, 61, 6);
+
 }

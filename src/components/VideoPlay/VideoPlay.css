@@ -1,3 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
 .Paragraph{
   font-family: raleway, sans-serif;
   text-align: center;

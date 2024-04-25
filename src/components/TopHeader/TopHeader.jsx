@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 export default class TopHeader extends Component {
   render() {
     return (
-      <section id='hero'>
+      <Fragment>
         <Container fluid className='Top-Header p-0'> 
         <div className='Top-Overlay'> 
         <Container className='Top-Content'>
@@ -16,20 +16,13 @@ export default class TopHeader extends Component {
             <h1 className='Top-Title'>SOFTWARE ENGINEER</h1><br/>
             <h4 className='Top-Sub-Title'>Mobile & Web Application </h4>
             <br/>
-            <Button variant="primary" size="lg">More Info</Button>{' '}
-            
-            
+            <Button variant="primary" size="lg">More Info</Button>{' '}   
             </Col>
           </Row>
         </Container>
-
-
         </div>
-
         </Container>
-
-
-      </section>
+      </Fragment>
     )
   }
 }

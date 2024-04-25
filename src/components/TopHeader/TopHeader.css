@@ -28,3 +28,35 @@
     color: aliceblue;
     font-family: "Raleway", sans-serif;
 }
+
+.Top-Headers{
+  background-image: url("../../assets/images/bg-2.png");
+  min-height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.Top-Overlays{
+  min-height: 550px;
+
+  width: 100%;
+  position:absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+
+}
+.Top-Contents{
+  margin-top: 300px;
+}
+.Top-Titles{
+  color: aliceblue;
+  font-size: 60px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+.Top-Sub-Titles{
+  font-size: 40px;
+  font-weight: 600;
+  color: aliceblue;
+  font-family: "Raleway", sans-serif;
+}

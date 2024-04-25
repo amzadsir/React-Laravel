@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .Total-Work{
   background-image: url("../../assets/images/bg-2.png");
   min-height: 400px;

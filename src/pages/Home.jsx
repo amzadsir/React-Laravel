@@ -10,6 +10,8 @@ import Testimonials from "../components/Testimonials/Testimonials.jsx";
 import TopHeader from "../components/TopHeader/TopHeader.jsx";
 import TotalWork from "../components/TotalWork/TotalWork.jsx";
 import VideoPlay from "../components/VideoPlay/VideoPlay.jsx";
+import ContactMe from '../components/ContactMe/ContactMe.jsx';
+import AboutMe from '../components/AboutMe/AboutMe.jsx';
 
 
 function Home() {
